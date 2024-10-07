@@ -21,6 +21,12 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: suggest-archive.html
+  - title: 号外
+    post_list: 
+      category: extra
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: extra-archive.html
 
   - title: rss
     url: feed.xml
