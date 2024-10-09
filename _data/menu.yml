@@ -4,9 +4,12 @@
 entries:
   - title: 关于
     entries:
-      - title: 藏书宝阁
-      - title: 返回主站
-        url: "https://axcwg.cn"
+      - title: 提建议的地方——活用Issues！
+        url: https://github.com/AXCWG/doushosai/issues
+      - title: 藏书宝阁。
+      - title: 主站
+        url: "https://axcwg.github.io"
+      
 
   - title: 所有帖子
     post_list:
